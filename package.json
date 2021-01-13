@@ -1,7 +1,26 @@
 {
-  "name": "cra-samuel",
+  "name": "samuel",
   "version": "0.1.0",
-  "private": true,
+  "author": "Samuel Trahan",
+  "description": "a React Template",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samueltrahan/cra-samuel",
+    "directory": "/"
+  },
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "template",
+    "cinque"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
